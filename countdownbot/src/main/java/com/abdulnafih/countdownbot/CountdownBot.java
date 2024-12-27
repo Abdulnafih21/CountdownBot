@@ -24,7 +24,7 @@ public class CountdownBot extends ListenerAdapter {
     private final List<String> motivationalQuotes = new ArrayList<>();
     
     public static void main(String[] args) throws LoginException {
-        String token = "MTMyMTMwNDMzMzgyNDAzMjgzOQ.Gch-Ag.dazj22XwW5bp-GUVU47Vxw9hzMvgwIQQHNGPeU"; // Replace with your bot token
+        String token = "<your token>"; // Replace with your bot token
         JDABuilder.createDefault(token)
                 .setActivity(Activity.playing("Countdown to 2025"))
                 .addEventListeners(new CountdownBot())

@@ -1,32 +1,35 @@
-# CountdownBot
+# **CountdownBot**  
+CountdownBot is a feature-packed Discord bot designed to make the countdown to New Year 2025 exciting and interactive! Engage users with trivia, plan parties, track resolutions, and celebrate the festive season in style.
 
-CountdownBot is a Discord bot that counts down the time until New Year 2025, provides fun trivia questions, party planning tips, and helps users set and track their New Year resolutions.
+---
 
-## Features
-- Countdown to New Year 2025.
-- Trivia questions with different categories.
-- New Year resolution tracking.
-- Party planning tips.
-- User rankings.
+## **🎉 Features**
+- **⏳ Countdown to New Year 2025**: Real-time countdown timer to ring in the new year.  
+- **❓ Fun Trivia Questions**: Test your knowledge with trivia in multiple categories.  
+- **📋 Resolution Tracking**: Help users set, manage, and stick to their New Year resolutions.  
+- **🎭 Party Planning Tips**: Share creative ideas and tips for organizing memorable New Year parties.  
+- **⭐ User Rankings**: Track user engagement and rank participants based on their interaction with the bot.
 
-## How to Run
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/Abdulnafih21/CountdownBot.git
-    ```
-2. Navigate into the project directory:
-    ```bash
-    cd CountdownBot
-    ```
-3. Run the bot:
-    ```bash
-    mvn exec:java
-    ```
+---
 
-## Requirements
-- Java 8 or higher.
-- Maven.
-- A Discord bot token.
+## **📂 How to Run**
+For demonstration purposes only. Full access to the source code is restricted. If you wish to contribute or collaborate, please contact me.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+---
+
+## **📋 Requirements**
+To deploy or use this bot, you will need:
+- **Java 8** or higher.  
+- **Maven** for dependency management.  
+- **Discord Bot Token**: Obtain one from the [Discord Developer Portal](https://discord.com/developers/applications).  
+
+---
+
+## **🔒 License**
+This repository is private and protected. Cloning, distributing, or modifying the code without prior permission is prohibited.
+
+---
+
+## **📞 Contact**
+For any queries, collaboration requests, or to view the complete source code, contact:  
+- **[Your Name]**: [Your Email or GitHub Profile]

@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <!-- Group ID: Unique identifier for the project -->
-    <groupId>com.yourname</groupId>
+    <groupId>com.abdulnafih</groupId>
 
     <!-- Artifact ID: The name of the project -->
     <artifactId>CountdownBot</artifactId>
@@ -29,6 +29,13 @@
 
     <!-- Dependencies: List of external libraries the project depends on -->
     <dependencies>
+        <!-- JDA Dependency for Discord Bot -->
+        <dependency>
+            <groupId>net.dv8tion</groupId>
+            <artifactId>JDA</artifactId>
+            <version>5.0.0-alpha.9</version>
+        </dependency>
+
         <!-- JUnit Dependency for Unit Testing (if needed) -->
         <dependency>
             <groupId>junit</groupId>
@@ -59,7 +66,7 @@
                 <version>3.5.0</version>
                 <configuration>
                     <!-- Ensure the fully qualified name of the main class -->
-                    <mainClass>com.yourname.CountdownBot</mainClass> <!-- Main class with the package name -->
+                    <mainClass>com.abdulnafih.countdownbot.CountdownBot</mainClass>
                 </configuration>
             </plugin>
         </plugins>
